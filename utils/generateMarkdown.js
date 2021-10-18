@@ -21,7 +21,7 @@ function generateMarkdown(data) {
   ${data.Installation}
 
   ## Usage
-  ![Gif demo of README.md-Generator](./README.md-Generator-DemoGit.gif)
+  
   ${data.Usage}
   Demo video link: [Demo Video](https://watch.screencastify.com/v/CJsT0PHdP0Q4E59FvcTx)
 
