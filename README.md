@@ -20,7 +20,6 @@
   ## Usage
 
   The way to use this project is by running node index.js in the command line. From here, the inquirer package will take the user to the command line where the questions will begin to appear and the user must answer them.
-    Demo video link: [Demo Video](https://watch.screencastify.com/v/CJsT0PHdP0Q4E59FvcTx)
 
   ## Contributing
   There was none for this assignment.
